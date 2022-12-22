@@ -16,3 +16,18 @@ body{
     width: auto;
     height: 35rem;
 }
+
+.OPimg{
+    display: flex;
+    border-radius: 100%;
+    width: 400px;
+    height: 400px;
+    margin-left: 50px;
+}
+h1{
+    display: inline-block;
+}
+
+.text-black-50{
+    margin-left: 10px;
+}
